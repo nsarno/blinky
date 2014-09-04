@@ -3,6 +3,7 @@ blinky
 
 My fish shell config
 
+```
                                  -/%-                              
                                :$%/;H.                             
                              =$+;;;;%%=;+%$H,                      
@@ -28,3 +29,4 @@ My fish shell config
                      @$%;;;;$@M/---, %X/;;;;;;X/      %X$.         
                      .,=H/$%$$X      =+;X%;%$+;.                   
                         -/-  .           /$;                       
+```

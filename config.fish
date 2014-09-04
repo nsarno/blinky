@@ -14,3 +14,6 @@ set fish_theme robbyrussell
 # Load oh-my-fish configuration.
 . $fish_path/oh-my-fish.fish
 
+set PATH $HOME/.rbenv/bin $PATH
+. (rbenv init -|psub)
+
